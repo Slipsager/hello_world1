@@ -2,3 +2,5 @@
 This is a test
 
 Hello Webdev 1.sem fal 2015
+
+Dette er en Dansk version
